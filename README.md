@@ -29,11 +29,11 @@
 Comparison of card statistics in FIFA 2020. I used Chart.js for create this.
 
 ## View desktop
-![comparison-dekstop](images/comparison-dekstop.png)
+![comparison-dekstop](images/comparison_dekstop.png)
 
 ## View mobile
 
-![comparison-mobile](images/comparison-mobile_mobile.png)
+![comparison-mobile](images/comparison_mobile_mobile.png)
 
 ## Author
 
