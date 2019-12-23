@@ -22,7 +22,7 @@
 
 ## Link
 
-[Click here](https://davidburdelak.pl/comparison-cards-statistics/)
+[Click here](https://davidburdelak.github.io/comparison-of-card-statistics/)
 
 ## Description
 
